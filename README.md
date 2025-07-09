@@ -30,22 +30,26 @@ Copy
 Edit
 git clone https://github.com/YOUR_USERNAME/ai_aggregator.git
 cd ai_aggregator
+
 🔹 2. Install Dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
+
 🔹 3. Generate the Index (if needed)
 bash
 Copy
 Edit
 python generate_index.py
+
 🔹 4. Run the Flask App Locally
 bash
 Copy
 Edit
 python app.py
 Then open http://localhost:5000 in your browser.
+
 
  Deploy Online (Recommended)
 Push your code to GitHub.
