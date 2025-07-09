@@ -24,6 +24,7 @@ HTML/CSS — for frontend templates.
 Render — for hosting your app online.
 
 🔗 How to Set Up & Run
+
 🔹 1. Clone the Repo
 bash
 Copy
